@@ -33,7 +33,7 @@ function App() {
                                     <h5 className="fw-bolder">iPhone 13 Pro Max</h5>
                                     Rs. 1,37,000
                                 </div>
-                              <div className="d-flex justify-content-center"><Rating/></div>
+                              <div className="d-flex justify-content-center fw-bold">Rating: <Rating/></div>
                             </div>
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
                                 <div className="text-center">
@@ -61,7 +61,7 @@ function App() {
                                     <h5 className="fw-bolder">iPhone 13 pro</h5>
                                     Rs. 1,16,000
                                 </div>
-                                <div className="d-flex justify-content-center"><Rating/></div>
+                                <div className="d-flex justify-content-center fw-bold">Rating: <Rating/></div>
                             </div>
                             
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
@@ -90,7 +90,7 @@ function App() {
                                     <h5 className="fw-bolder">iPhone 13 Mini</h5>
                                     Rs. 72,000
                                 </div>
-                                <div className="d-flex justify-content-center"><Rating/></div>
+                                <div className="d-flex justify-content-center fw-bold">Rating: <Rating/></div>
                             </div>
                             
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
@@ -119,7 +119,7 @@ function App() {
                                     <h5 className="fw-bolder">iPhone 13</h5>
                                     Rs. 80,000
                                 </div>
-                                <div className="d-flex justify-content-center"><Rating/></div>
+                                <div className="d-flex justify-content-center fw-bold">Rating: <Rating/></div>
                             </div>
                             
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
@@ -148,7 +148,7 @@ function App() {
                                     <h5 className="fw-bolder">iphone 12 pro max</h5>
                                     Rs. 1,29,900
                                 </div>
-                                <div className="d-flex justify-content-center"><Rating/></div>
+                                <div className="d-flex justify-content-center fw-bold">Rating: <Rating/></div>
                             </div>
                             
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
@@ -177,7 +177,7 @@ function App() {
                                     <h5 className="fw-bolder">iPhone 12 pro</h5>
                                     Rs. 1,04,000
                                 </div>
-                                <div className="d-flex justify-content-center"><Rating/></div>
+                                <div className="d-flex justify-content-center fw-bold">Rating: <Rating/></div>
                             </div>
                             
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
@@ -206,7 +206,7 @@ function App() {
                                     <h5 className="fw-bolder">iPhone 12</h5>
                                     Rs. 60,900
                                 </div>
-                                <div className="d-flex justify-content-center"><Rating/></div>
+                                <div className="d-flex justify-content-center fw-bold">Rating: <Rating/></div>
                             </div>
                             
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
@@ -235,7 +235,7 @@ function App() {
                                     <h5 className="fw-bolder">iPhone 12 mini</h5>
                                     Rs. 52,000
                                 </div>
-                                <div className="d-flex justify-content-center"><Rating/></div>
+                                <div className="d-flex justify-content-center fw-bold">Rating: <Rating/></div>
                             </div>
                            
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
